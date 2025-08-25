@@ -1,0 +1,66 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Core_MVC_Wipro_demo1.Models.Registration
+@{
+    ViewData["Title"] = "Registration Form";
+}
+
+<h2>Registration Form</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label>Employee ID</label>
+        <input asp-for="EmployeeId" />
+        <span asp-validation-for="EmployeeId" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>City</label>
+        <select asp-for="City">
+            <option value="">--Select City--</option>
+            <option value="Bhubaneswar">Bhubaneswar</option>
+            <option value="Delhi">Delhi</option>
+            <option value="Mumbai">Mumbai</option>
+            <option value="Bangalore">Bangalore</option>
+        </select>
+        <span asp-validation-for="City" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Gender</label>
+        <input type="radio" asp-for="Gender" value="Male" /> Male
+        <input type="radio" asp-for="Gender" value="Female" /> Female
+        <span asp-validation-for="Gender" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Qualification</label>
+        <input type="checkbox" name="Qualification" value="BCA" /> BCA
+        <input type="checkbox" name="Qualification" value="MCA" /> MCA
+        <input type="checkbox" name="Qualification" value="B.Tech" /> B.Tech
+        <span asp-validation-for="Qualification" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Password</label>
+        <input asp-for="Password" type="password" />
+        <span asp-validation-for="Password" style="color:red"></span>
+    </div>
+
+    <button type="submit">Submit</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

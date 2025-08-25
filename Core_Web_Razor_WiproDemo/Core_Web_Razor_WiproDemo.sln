@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core_Web_Razor_WiproDemo", "Core_Web_Razor_WiproDemo\Core_Web_Razor_WiproDemo.csproj", "{7DC81350-4682-4771-BF2A-84378EC0CA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC81350-4682-4771-BF2A-84378EC0CA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC81350-4682-4771-BF2A-84378EC0CA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC81350-4682-4771-BF2A-84378EC0CA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC81350-4682-4771-BF2A-84378EC0CA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06EB09A7-3201-43D1-AE02-ED7205557029}
+	EndGlobalSection
+EndGlobal

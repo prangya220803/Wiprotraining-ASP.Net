@@ -1,0 +1,55 @@
+﻿@model IEnumerable<MVC_Core_wipro.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h2 class="text-center mt-4">👨‍💻 Employee Details</h2>
+
+<table class="table table-hover table-bordered shadow-lg mt-4" style="border-radius:10px; overflow:hidden;">
+    <thead class="table-dark text-center">
+        <tr>
+            <th>Employee ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>City</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr class="text-center">
+                <td>@emp.empid</td>
+                <td>@emp.firstname</td>
+                <td>@emp.lastname</td>
+                <td>@emp.city</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center mt-4">
+    <button class="btn btn-primary px-4 py-2">Add Employee</button>
+    <button class="btn btn-success px-4 py-2">Export</button>
+</div>
+
+<style>
+    h2 {
+        font-weight: bold;
+        color: #2c3e50;
+    }
+
+    table {
+        font-size: 1.1rem;
+    }
+
+    tbody tr:hover {
+        background-color: #f1f1f1;
+        transition: 0.3s;
+    }
+
+    button {
+        margin: 0 10px;
+        border-radius: 8px;
+    }
+</style>

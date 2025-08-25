@@ -1,0 +1,8 @@
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.AssemblyReference.cache
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
+C:\Users\Prangya\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe.config

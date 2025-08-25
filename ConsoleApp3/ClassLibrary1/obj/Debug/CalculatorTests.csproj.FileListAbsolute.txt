@@ -1,0 +1,2 @@
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\CalculatorTests.csproj.AssemblyReference.cache
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\CalculatorTests.csproj.CoreCompileInputs.cache

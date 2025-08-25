@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\views\\order\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\order\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\services\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\services\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\models\\sessionkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\models\\sessionkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\models\\billingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\models\\billingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\filters\\userlogfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\filters\\userlogfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|c:\\users\\prangya\\source\\repos\\minishop\\minishop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6724ED3-5A7D-483E-BC1D-4F950EE25084}|MiniShop\\MiniShop.csproj|solutionrelative:minishop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Services\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Services\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Services\\IProductRepository.cs",
+              "RelativeToolTip": "MiniShop\\Services\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:53:34.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:04:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:05:35.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:52:27.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bill.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Order\\Bill.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\Order\\Bill.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Order\\Bill.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\Order\\Bill.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:06:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:06:31.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiniShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiniShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:47:18.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Program.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Program.cs",
+              "RelativeToolTip": "MiniShop\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:10:21.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MiniShop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MiniShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABEBAAAAAAAAAAAUwCYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-20T11:30:51.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Services\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Services\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Services\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "MiniShop\\Services\\InMemoryProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:54:15.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionKeys.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\SessionKeys.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Models\\SessionKeys.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\SessionKeys.cs",
+              "RelativeToolTip": "MiniShop\\Models\\SessionKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:52:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\Product.cs",
+              "RelativeToolTip": "MiniShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:51:02.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "MiniShop\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:51:48.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\CartItem.cs",
+              "RelativeToolTip": "MiniShop\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:51:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\BillingViewModel.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Models\\BillingViewModel.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Models\\BillingViewModel.cs",
+              "RelativeToolTip": "MiniShop\\Models\\BillingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:52:11.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Infrastructure\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Infrastructure\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Infrastructure\\SessionExtensions.cs",
+              "RelativeToolTip": "MiniShop\\Infrastructure\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:58:24.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLogFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Filters\\UserLogFilter.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Filters\\UserLogFilter.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Filters\\UserLogFilter.cs",
+              "RelativeToolTip": "MiniShop\\Filters\\UserLogFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:57:15.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MiniShop\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:50:26.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiniShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:43:50.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MiniShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:50:00.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MiniShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\MiniShop\\MiniShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MiniShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:49:29.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

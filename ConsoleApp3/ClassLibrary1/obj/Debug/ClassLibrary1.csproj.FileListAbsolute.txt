@@ -1,0 +1,6 @@
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll.config
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.gentestingplatformentrypointinputcache.cache
+C:\Users\Prangya\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.genautoregisteredextensionsinputcache.cache

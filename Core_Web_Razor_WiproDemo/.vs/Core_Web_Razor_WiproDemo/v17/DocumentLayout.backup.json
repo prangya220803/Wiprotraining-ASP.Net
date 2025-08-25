@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\pages\\static_files_demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\pages\\static_files_demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\pages\\emppage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\pages\\emppage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\pages\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\pages\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|c:\\users\\prangya\\source\\repos\\core_web_razor_wiprodemo\\core_web_razor_wiprodemo\\pages\\wipropage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC81350-4682-4771-BF2A-84378EC0CA71}|Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo.csproj|solutionrelative:core_web_razor_wiprodemo\\pages\\wipropage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-29T09:33:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "static_files_demo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\static_files_demo.cshtml",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\Pages\\static_files_demo.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\static_files_demo.cshtml",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\Pages\\static_files_demo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T09:39:02.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-29T09:30:39.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\EmpPage.cshtml",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\Pages\\EmpPage.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\EmpPage.cshtml",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\Pages\\EmpPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T07:37:06.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Model\\Employee.cs",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:25:42.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\Page2.cshtml",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\Pages\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\Page2.cshtml",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\Pages\\Page2.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T06:15:59.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T05:07:31.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "wipropage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\wipropage1.cshtml",
+              "RelativeDocumentMoniker": "Core_Web_Razor_WiproDemo\\Pages\\wipropage1.cshtml",
+              "ToolTip": "C:\\Users\\Prangya\\source\\repos\\Core_Web_Razor_WiproDemo\\Core_Web_Razor_WiproDemo\\Pages\\wipropage1.cshtml",
+              "RelativeToolTip": "Core_Web_Razor_WiproDemo\\Pages\\wipropage1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T04:51:19.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

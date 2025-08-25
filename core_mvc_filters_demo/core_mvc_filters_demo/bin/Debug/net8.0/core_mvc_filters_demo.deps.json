@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "core_mvc_filters_demo/1.0.0": {
+        "runtime": {
+          "core_mvc_filters_demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "core_mvc_filters_demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
